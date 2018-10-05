@@ -1,0 +1,15 @@
+#ifndef ARG 
+#define ARG
+#include "static_heap.h"
+#include "mutex.h"
+struct queryArg
+{
+	BinaryMaxHeap* binarymaxheap;
+	hashTableHeap* hashheap;
+	Mutex heap_mutex;			//mutex
+	CondVar* write_heap_cond; //conition variable for writers
+	int writers;
+
+};
+
+#endif
