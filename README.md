@@ -18,4 +18,4 @@ The main utilities we have implemented are listed below:
 
 *In src/ there is a detailed report in Greek, but in the last pages there are measurements of the performance of our application.
 
-Authors: Apostolos Florakis - Dimitrios Tsesmelis (https://github.com/JimTsesm) - Marinos Agapiou(https://github.com/MARINOSAG)
+Authors: Apostolos Florakis(https://github.com/apof) - Dimitrios Tsesmelis (https://github.com/JimTsesm) - Marinos Agapiou(https://github.com/MARINOSAG)
