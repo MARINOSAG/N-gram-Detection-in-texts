@@ -17,3 +17,5 @@ The main utilities we have implemented are listed below:
 5) Finally, we have introduced multi-threading in order to minimize the execution time of Q actions. We use POSIX threads. 
 
 *In src/ there is a detailed report in Greek, but in the last pages there are measurements of the performance of our application.
+
+Authors: Apostolos Florakis - Dimitrios Tsesmelis (https://github.com/JimTsesm) - Marinos Agapiou(https://github.com/MARINOSAG)
